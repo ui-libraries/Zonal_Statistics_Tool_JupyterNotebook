@@ -1,5 +1,5 @@
-# GIS-Free: How to Build an Ipywidgets-Supported Zonal Statistics Tool
-A Jupyter Notebook with supporting files documenting the creation of an ipywidgets-supported raster analysis tool for calculating zonal statistics. Please click [here](https://nbviewer.jupyter.org/github/ui-libraries/Zonal_Statistics_Tool_JupyterNotebook/blob/main/ZonalStatistics_withWidgets.ipynb) for a downloadable version of the notebook. 
+# GIS-Free: How to Build an Open-Source Zonal Statistics Tool without GIS
+A Jupyter Notebook with supporting files documenting the creation of a raster analysis tool for calculating zonal statistics. This tool runs on Python with support from gdal, rasterio, and rasterstats for shapefile and raster processing and ipywidgets and ipyfilechooser for handling user inputs. Please click [here](https://nbviewer.jupyter.org/github/ui-libraries/Zonal_Statistics_Tool_JupyterNotebook/blob/main/ZonalStatistics_withWidgets.ipynb) for a downloadable version of the notebook. 
 
 Dependencies:
 - gdal
