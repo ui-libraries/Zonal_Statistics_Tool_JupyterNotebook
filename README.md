@@ -3,6 +3,10 @@ A Jupyter Notebook with supporting files documenting the creation of an ipywidge
 
 Dependencies:
 - gdal
+- rasterio
+- rasterstats
+- ipywidgets
+- ipyfilechooser
 
 Please click the Binder link below for a fully-implementable walkthrough.
 
