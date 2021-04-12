@@ -8,6 +8,6 @@ Dependencies:
 - ipywidgets
 - ipyfilechooser
 
-Please click the Binder link below for a fully-implementable walkthrough.
+All analysis can be performed within Jupyter Notebook. You do not need to download or use any GIS software. Please click the Binder link below for a fully-implementable walkthrough.
 
 [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/ui-libraries/Zonal_Statistics_Tool_JupyterNotebook/HEAD)
